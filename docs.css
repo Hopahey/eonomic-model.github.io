@@ -1,0 +1,10 @@
+table {background-color:#FEFCFF}
+
+body {
+     background: url(desk1.jpg);
+	-moz-background-size: 100%;
+    -webkit-background-size: 100%;
+    background-size: 100%;
+    }
+
+a:hover {color: #D62727}
